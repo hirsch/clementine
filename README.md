@@ -1,0 +1,4 @@
+clementine
+==========
+
+Modular IRC Bot
